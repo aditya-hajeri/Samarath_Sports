@@ -1,0 +1,91 @@
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe.config
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.pdb
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csprojResolveAssemblyReference.cache
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports._1_Bill.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports.QuotationReports.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Form1.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Properties.Resources.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.AddProducts.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Company.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Product.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Billing.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Bill.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Quotation.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Quotation.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Stock_Maintain.resources
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.GenerateResource.Cache
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.exe
+D:\AdityHajeri\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.pdb
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe.config
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.exe
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.pdb
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.pdb
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csprojResolveAssemblyReference.cache
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports._1_Bill.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports.QuotationReports.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Form1.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Properties.Resources.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.AddProducts.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Company.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Product.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Billing.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Bill.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Quotation.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Quotation.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Stock_Maintain.resources
+D:\AAAA\Project Backup\NEW Project Backup 24-4-2017\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.GenerateResource.Cache
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csprojAssemblyReference.cache
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports._1_Bill.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports.QuotationReports.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Form1.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Properties.Resources.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.AddProducts.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Company.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Product.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Billing.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Bill.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Quotation.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Quotation.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Stock_Maintain.resources
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.GenerateResource.cache
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.CoreCompileInputs.cache
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.exe
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.pdb
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe.config
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.pdb
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.Shared.dll
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\bin\Debug\FlashControlV71.dll
+D:\Adityasing\Notes\New Folder (2)\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.CopyComplete
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe.config
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.exe
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\Samarath_Sports.pdb
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.Shared.dll
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\bin\Debug\FlashControlV71.dll
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.AssemblyReference.cache
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.SuggestedBindingRedirects.cache
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports._1_Bill.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Crystal_Reports.QuotationReports.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Form1.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.Properties.Resources.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.AddProducts.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Company.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Add_Product.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Billing.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Bill.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Browse_Quotation.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Quotation.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.UI.Stock_Maintain.resources
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.GenerateResource.cache
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.CoreCompileInputs.cache
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.csproj.CopyComplete
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.exe
+D:\My Projects\ACCUSOFT PROJECTS\Samarath_Sports\Samarath_Sports\obj\Debug\Samarath_Sports.pdb
